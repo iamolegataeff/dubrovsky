@@ -57,3 +57,13 @@ wandb/
 # SQLite databases (test artifacts)
 glitches/*.db
 *.db
+
+# Dataset and training scripts (local only)
+dubrovsky.txt
+train.py
+train_lambda.sh
+train_lambda_15k.sh
+train_lambda_boosted.sh
+setup_lambda.sh
+export_weights.py
+tokenizer.py
